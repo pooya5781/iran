@@ -1,3 +1,4 @@
+sudo_users = {104835951},--Sudo users  
 URL = require "socket.url"
 http = require "socket.http"
 https = require "ssl.https"
